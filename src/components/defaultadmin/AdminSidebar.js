@@ -23,7 +23,6 @@ const AdminSidebar = () => {
       colorScheme="dark"
       position="fixed"
       placement="start"
-      size="lg"
       unfoldable={unfoldable}
       visible={sidebarShow}
     >
